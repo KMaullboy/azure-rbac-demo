@@ -56,7 +56,22 @@ To confirm that RBAC roles restrict users according to the **principle of least 
 
 ---
 
+## Screenshots
+All screenshots are stored in the `screenshots` folder in this repository.  
 
+1. **IAM Role Assignments** page showing Owner, Contributor, and Reader roles  
+   ![IAM Role Assignments](screenshots/iam_roles.png)  
+
+2. **MFA prompt during login**  
+   ![MFA Prompt](screenshots/mfa_prompt.png)  
+
+3. **“Access denied” message** when Viewer and Developer attempted restricted actions
+   ![Access Denied](screenshots/role_assignment_failed_viewer.png)
+   ![Access Denied](screenshots/delete_failed_viewer.png) 
+   ![Access Denied](screenshots/delete_failed_dev.png)  
+
+4. **Sign-in logs** from Azure AD  
+   ![Sign-in Logs](screenshots/signin_logs.png)  
 
 ---
 
