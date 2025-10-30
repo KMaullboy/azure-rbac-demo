@@ -94,6 +94,6 @@ All screenshots are stored in the `screenshots` folder in this repository.
 
 ## Author
 **Kaleb Maull**  
-[LinkedIn](https://linkedin.com/in/kalebamaull)  
+[LinkedIn](https://linkedin.com/in/kalebmaull)  
 [GitHub](https://github.com/KMaullboy)
 
